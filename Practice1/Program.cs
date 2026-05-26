@@ -12,4 +12,8 @@ public class Program
     {
         Console.WriteLine("Miauw");
     }
+    void eet()
+    {
+        Console.WriteLine("Minoes eet haar brokjes");
+    }
 }

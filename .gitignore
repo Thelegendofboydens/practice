@@ -13,6 +13,7 @@ x86/
 *.suo
 
 # Visual Studio Code
+.vscode/
 *.code-workspace
 
 # Rider / JetBrains
